@@ -1,0 +1,21 @@
+<resources>
+    <string name="splash_title">Marco Deli</string>
+    <string name="app_name"> AZKYA_1202153371_MODUL2</string>
+    <string name="dine_in">Dine In</string>
+    <string name="take_away">Take Away</string>
+    <string name="choose_dine_in">Dine In</string>
+    <string name="choose_take_away">Take Away</string>
+    <string name="date_picker">datePicker</string>
+    <string name="nothing_selected">Please choose the table</string>
+    <string name="title_review_menu">Review Menu</string>
+    <string-array name="labels_array">
+        <item>Table 1</item>
+        <item>Table 2</item>
+        <item>Table 3</item>
+        <item>Table 4</item>
+        <item>Table 5</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
